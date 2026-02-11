@@ -1,8 +1,7 @@
 # Smart User Search Page
 
 ## How to Run
-1. Run:
-   npm install
+1. Run: npm install
    npm run dev
 
 ## Features
