@@ -1,8 +1,8 @@
 # Smart User Search Page
 
 ## How to Run
-1. Run: npm install
-   npm run dev
+- npm install
+- npm run dev
 
 ## Features
 - Case-insensitive search
